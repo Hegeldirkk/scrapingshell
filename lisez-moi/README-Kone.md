@@ -20,12 +20,12 @@ Scrapy.sh analyse un domaine principal et découvre ses sous-domaines à l’aid
 
 Exemple de résultat :
 
-bash
+```bash
 Recherche des sous-domaines pour 'certifiedHacker.com'...
 [+] autodiscover.certifiedhacker.com 162.241.216.11 302
 [+] blog.certifiedhacker.com 162.241.216.11 200
 [+] cpcontacts.certifiedhacker.com ;; communications error to 192.168.1.1#53: timed out 000
-
+```
 
 ![Image](https://github.com/Hegeldirkk/scrapingshell/blob/lisez-moi-kone/lisez-moi/Capture%20d%E2%80%99%C3%A9cran_2025-04-09_10-20-32.png)
 
