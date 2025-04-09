@@ -42,12 +42,14 @@ Affichage des codes HTTP pour chaque sous-domaine (colorisé pour plus de lisibi
 ``` 
 git clone https://github.com/Hegeldirkk/scrapingshell.git
 
+```
 
 ### Accédez au répertoire du projet :
 
 ``` 
 cd scrapingshell
 
+```
 ### Vérifiez que le script scrapy.sh est présent dans le répertoire.
 
 
@@ -58,13 +60,14 @@ Pour utiliser le script, exécutez simplement la commande suivante :
 ```
 ./scrapy.sh <domaine.com>
 
+```
 
 Patientez pendant que le script effectue la recherche et affiche les résultats.
-
+``
 Exemple de sortie
-
 
 [+] sub1.exemple.com 192.168.1.1 200
 [+] sub2.exemple.com Aucune IP 404
 
+```
 https://github.com/Hegeldirkk/scrapingshell/blob/lisez-moi-Blvck/lisez-moi/scrapy-img.png
