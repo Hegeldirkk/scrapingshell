@@ -14,4 +14,4 @@
  * ./scrapy.sh : permet de d'excuter notre script bash nommé scrapy
  * certifiedhacker.com : est le nom de domaine que nous avons renseigné
 
-![image](https://github.com/Hegeldirkk/scrapingshell/blob/lisezmoi-ghoze/home/g008/Images )
+![image](https://github.com/Hegeldirkk/scrapingshell/blob/lisezmoi-ghoze/lisez-moi/scrapy.png)
