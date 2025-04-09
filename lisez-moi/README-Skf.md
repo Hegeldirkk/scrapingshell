@@ -4,8 +4,8 @@
 # COMMANDE EXECUTION 
 ## ./scrapy.sh nom-domaine
 # EXPLICATION DES DIFFERENTS PARAMETRES
- * script-shell
- * nom-domaine
+## script-shell
+## nom-domaine
 # IMAGE D'EXECUTION
 ![image](https://github.com/Hegeldirkk/scrapingshell/blob/lisezMoi-skf/lisez-moi/scraping_preuve.png)
 
