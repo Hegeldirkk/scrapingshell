@@ -8,8 +8,8 @@
 ## Commande Executer :
 ``` 
 sudo apt install jq 
-
-```./scrapy.sh nom-domain
+```
+./scrapy.sh nom-domain
 
 ## Explication des paramètres
 
@@ -20,8 +20,8 @@ Scrapy.sh analyse un domaine principal et découvre ses sous-domaines à l’aid
 - Afficher les erreurs ou échecs de résolution s’il y en a.
 
 Exemple de résultat :
-
-```bash
+```
+bash
 Recherche des sous-domaines pour 'certifiedHacker.com'...
 [+] autodiscover.certifiedhacker.com 162.241.216.11 302
 [+] blog.certifiedhacker.com 162.241.216.11 200
