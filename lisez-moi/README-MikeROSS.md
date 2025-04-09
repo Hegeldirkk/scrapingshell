@@ -11,8 +11,9 @@ Comment utiliser:
 
 ## Commande  d'execution 
 
+```
 ./scrapy.sh domain
-
+```
 ## Explication
 *Domain: certifiedhacker.com
 ![image](https://github.com/Hegeldirkk/scrapingshell/blob/lisezmoi-ghoze/lisez-moi/scrapy.png)
