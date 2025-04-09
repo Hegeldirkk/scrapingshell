@@ -63,11 +63,10 @@ Pour utiliser le script, exécutez simplement la commande suivante :
 ```
 
 Patientez pendant que le script effectue la recherche et affiche les résultats.
-``
+```
 Exemple de sortie
 
 [+] sub1.exemple.com 192.168.1.1 200
 [+] sub2.exemple.com Aucune IP 404
-
 ```
 https://github.com/Hegeldirkk/scrapingshell/blob/lisez-moi-Blvck/lisez-moi/scrapy-img.png
