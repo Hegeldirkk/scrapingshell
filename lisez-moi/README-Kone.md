@@ -9,7 +9,7 @@
 ``` 
 sudo apt install jq 
 ```
- ./scrapy.sh certifiedHacker.com
+./scrapy.sh nom-domain
 
 ## Explication des paramètres
 
