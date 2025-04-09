@@ -1,20 +1,18 @@
 # NOM DE L'OUTIL: Scrapy.sh
 
 ## 1. DESCRIPTION
-  Scrapy.sh est un outil qui permet de récupérer une page web de façon automatique
-  des différents sous-domaines tout en faisant correspondre à chaque sous-domaine
-  sous adresse ip et fait apparaître les differents codes d'erreurs
+  MSRSCRAP est un outil de footprinting qui permet de récupérer tous les sous-domaines de façon automatique, tout en faisant correspondre à chaque sous-domaine l'adresse ip et donne la disponibilité des ressources web à partir des code http. l'outils se base sur le site "crt" qui permet de verifier le ssl des domain
 
 ## 2. COMMANDE D'EXECUTION
 
  ```
-   ./scrapy.sh domain
+   ./msrscrap.sh domain
 ```
 
 ## 3.  EXPLICATION DES DIFFERENTS PARAMETRES 
 
- * ./scrapy.sh : permet de d'excuter notre script bash nommé scrapy
- * domain : est le nom de domaine attesté. Ex: example.com
+ * ./msrscrap.sh : permet de d'executer notre script bash, pour la recuperation d'informations
+ * domain : nom de domaine cible a tester. Ex: example.com
 
 ## 4. CAPTURE D'IMAGE
 
