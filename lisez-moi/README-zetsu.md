@@ -1,4 +1,4 @@
-     ########## Nom de l'outil : scrapy.sh ##########
+     # Nom de l'outil : scrapy.sh 
 
  # Desciption 
 
@@ -16,11 +16,11 @@ Pour chaque code http, il applique une couleur à [+].
      -Rouge pour le code 500-599 (erreur serveur)
      -Blanc pour le code 000 (pas de reponse) 
       
-      ########## Pocédure d'installation ##########
+      ## Pocédure d'installation ##
 
      git clone https://github.com/Hegeldirkk/scrapingshell
 
-      ########## Commande d'execution ###########
+      ## Commande d'execution ##
 
 pour l'execution du script, il faut taper de votre terminal
 
