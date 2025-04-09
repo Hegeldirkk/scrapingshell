@@ -27,5 +27,5 @@ Recherche des sous-domaines pour 'certifiedHacker.com'...
 [+] blog.certifiedhacker.com 162.241.216.11 200
 [+] cpcontacts.certifiedhacker.com ;; communications error to 192.168.1.1#53: timed out 000
 
-# Image: (https://github.com/Hegeldirkk/scrapingshell/blob/lisez-moi-kone/lisez-moi/Capture%20d%E2%80%99%C3%A9cran_2025-04-09_10-20-32.png)
+ Image: (https://github.com/Hegeldirkk/scrapingshell/blob/lisez-moi-kone/lisez-moi/Capture%20d%E2%80%99%C3%A9cran_2025-04-09_10-20-32.png)
 
