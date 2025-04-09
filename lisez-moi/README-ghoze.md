@@ -6,12 +6,15 @@
   sous adresse ip et fait apparaître les differents codes d'erreurs
 
 ## 2. COMMANDE D'EXECUTION
- 
-  * ./scrapy.sh certifiedhacker.com
+
+ ```
+   ./scrapy.sh domain
+
+```
 
 ## 3.  EXPLICATION DES DIFFERENTS PARAMETRES 
 
  * ./scrapy.sh : permet de d'excuter notre script bash nommé scrapy
- * certifiedhacker.com : est le nom de domaine que nous avons renseigné
+ * domain : est le nom de domaine attesté. Ex: example.com
 
 ![image](https://github.com/Hegeldirkk/scrapingshell/blob/lisezmoi-ghoze/lisez-moi/scrapy.png)
