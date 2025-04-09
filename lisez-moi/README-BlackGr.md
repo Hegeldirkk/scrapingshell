@@ -1,9 +1,9 @@
 
 
 
--NOM DE L'OUTIL: scrapingshell.sh
+# NOM DE L'OUTIL: scrapy.sh
 
-       # DESCRIPTION
+       ## DESCRIPTION
 
 SCRAPING.SH est un outil de footpronting developpé dans le cadre de la phese de reconnaissance et de recherche d'information dans le Hacking.
 cet outil permet d'extraire les sous domaine sur un nom de domaine donnée, afficher les adresses IPs des hotes et l'état de disponibilité a travers
@@ -20,10 +20,10 @@ Pour lancer l'outil et reussir a obtenir des resultas il faut:
 *l'exucution se fait comme suit:
     -[ <nom de l'outil> domaine]
 
-    exemple scraping.sh certifiedhacker.com
+    exemple ```./ scraping.sh certifiedhacker.com```
 
     ## EXPLICATION DES PARAMETRES
 
-![capture]()
+![capture](https://github.com/Hegeldirkk/scrapingshell/blob/lisezmoi-BlackGr/lisez-moi/exemple_scrapy.png )
 
 
