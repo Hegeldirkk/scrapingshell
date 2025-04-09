@@ -26,8 +26,13 @@ pour l'execution du script, il faut taper de votre terminal
 
       - ./scrapy.sh domaine
       - bash scrapy.sh domaine 
- Exemple: ./scrapy.sh certifiedhacker.com ou
-          bash scrapy.sh certifiedhacker.com 
+ Exemple:```
+           ./scrapy.sh certifiedhacker.com 
+         ```
+ou
+        ```
+          bash scrapy.sh certifiedhacker.com
+        ``` 
 
 ##### Exemple d'execution #####
 
