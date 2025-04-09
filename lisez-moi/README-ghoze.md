@@ -16,6 +16,6 @@
  * ./scrapy.sh : permet de d'excuter notre script bash nommé scrapy
  * domain : est le nom de domaine attesté. Ex: example.com
 
-## 3. CAPTURE D'IMAGE
+## 4. CAPTURE D'IMAGE
 
 ![image](https://github.com/Hegeldirkk/scrapingshell/blob/lisezmoi-ghoze/lisez-moi/scrapy.png)
