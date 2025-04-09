@@ -13,12 +13,12 @@
 
 
     Pour lancer l'outil et reussir a obtenir des resultas il faut:
-    .un nom de domain sur lequel recuperer des infos.
-    .exemple: certifiedhacker.com
+    un nom de domain sur lequel recuperer des infos.
+    exemple: certifiedhacker.com
 
 ## 3- Exucution
 
-    exemple: 
+    exemple d'execution sur un domain 
 ```
 ./ scraping.sh certifiedhacker.com
 ```
