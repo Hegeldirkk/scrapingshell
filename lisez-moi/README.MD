@@ -1,7 +1,7 @@
-Sub Domain Scraping
+# Sub Domain Scraping
 
 
-Description de l'outil
+## Description de l'outil
 
 
 Sub Domain Scraping est un script Bash permettant d'explorer un domaine principal pour découvrir ses sous-domaines et d'afficher leurs codes HTTP correspondants. Cet outil est particulièrement utile pour :
@@ -13,8 +13,7 @@ Les administrateurs systèmes.
 Toute personne souhaitant analyser la structure d’un domaine.
 
 
-
-Fonctionnalités
+# Fonctionnalités
 
 
 Extraction des sous-domaines d’un domaine principal.
@@ -35,25 +34,28 @@ Affichage des codes HTTP pour chaque sous-domaine (colorisé pour plus de lisibi
 
 
 
-Procédure d'installation
+# Procédure d'installation
 
 
-Clonez le dépôt GitHub :
+### Clonez le dépôt GitHub :
 
+``` 
 git clone https://github.com/Hegeldirkk/scrapingshell.git
 
-Accédez au répertoire du projet :
 
+### Accédez au répertoire du projet :
+
+``` 
 cd scrapingshell
 
-Vérifiez que le script scrapy.sh est présent dans le répertoire.
+### Vérifiez que le script scrapy.sh est présent dans le répertoire.
 
 
-Commande d'exécution
+# Commande d'exécution
 
 Pour utiliser le script, exécutez simplement la commande suivante :
 
-
+```
 ./scrapy.sh <domaine.com>
 
 
